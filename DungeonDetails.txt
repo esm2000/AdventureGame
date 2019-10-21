@@ -1,0 +1,19 @@
+Orc
+covered with green blood
+20
+5
+0 
+a room with an unbearable smell
+Skeleton
+funny how it moves
+40
+10
+10 
+dark and cold
+Fire Dragon
+spout fire with each breath
+100
+20
+40 
+a giant hall with something shiny on the other end
+a large pile of gold
