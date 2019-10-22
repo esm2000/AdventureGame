@@ -50,6 +50,11 @@ public class MyMonster extends MyCreature implements gameinterfaces.Monster{
 			this.damage *= 2;
 			this.isEnraged = true;
 			
+			System.out.println();
+			System.out.println("--------------------------------------");
+			System.out.println(this.getName() + " is now ENRAGED! Careful...");
+			System.out.println("--------------------------------------");
+			System.out.println();
 		}
 		
 	}
